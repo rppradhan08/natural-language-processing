@@ -1,6 +1,6 @@
 ## Custom NER based resume parser using Spacy3
 
-1. Downloading appropriate the skeleton of base [config_file](https://spacy.io/usage/training) as per the system requirement.
+1. Download appropriate skeleton of the [base_config.cfg](https://spacy.io/usage/training) file as per the system requirement.
 
 2. Clone the source data [repo](https://github.com/laxmimerit/CV-Parsing-using-Spacy-3.git) to train the custom `ner` model.
 
@@ -24,4 +24,4 @@
 
    **Remark:** Here dev.spacy denotes the test data i.e. used for model evaluation
 
-6. Evaluate model performance on Unseen data.
+6. Evaluate model performance on unseen data.
