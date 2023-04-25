@@ -1,3 +1,3 @@
 ## Landchain Framework
 
-Contains different usecases and templates using langchain framework.
+Contains different usecases and tutorials using langchain framework.
