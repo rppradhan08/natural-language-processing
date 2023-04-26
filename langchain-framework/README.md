@@ -1,3 +1,3 @@
 ## Landchain Framework
 
-Contains different usecases and tutorials using langchain framework.
+This repo contains usecases and tutorials using langchain framework.
