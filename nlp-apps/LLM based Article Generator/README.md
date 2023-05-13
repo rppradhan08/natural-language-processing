@@ -30,6 +30,9 @@ Execute below command to test this application on localhost environment.
 streamlit run app.py
 ```
 
+<img width="959" alt="image" src="https://github.com/rppradhan08/natural-language-processing/assets/62500188/a7c1d649-2bd3-4db4-87c8-7309edde6a0f">
+
+
 ## Built With
 
 **Python**: The core programming language used for developing the project.
