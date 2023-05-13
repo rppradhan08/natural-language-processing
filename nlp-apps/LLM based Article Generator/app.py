@@ -10,8 +10,8 @@ os.environ['OPENAI_API_KEY'] = OPENAI_API_KEY
 os.environ['HUGGINGFACEHUB_API_TOKEN'] = HUGGINGFACEHUB_API_TOKEN
 
 # App framework
-st.title('Wikipedia AI Assistant')
-prompt_topic = st.text_input("Enter a topic below...")
+st.title('AI-powered Article Generator')
+prompt_topic = st.text_input("Please enter a topic below")
 
 # Prompt Templates
 title_template_text = '''
@@ -55,5 +55,3 @@ if prompt_topic:
     response = sequential_chain({'topic':prompt_topic})
     st.write(response['title'])
     st.write(response['article'])
-else:
-    st.write("Please enter desired topic")
