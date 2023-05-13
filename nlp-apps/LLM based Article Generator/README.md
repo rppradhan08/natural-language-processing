@@ -35,6 +35,6 @@ streamlit run app.py
 
 ## Built With
 
-**Python**: The core programming language used for developing the project.
-**Langchain**: Framework used to interact with OpenAI based LLM.
-**Streamlit**: Framework used to build the Webbased application.
+- **Python**: The core programming language used for developing the project.
+- **Langchain**: Framework used to interact with OpenAI based LLM.
+- **Streamlit**: Framework used to build the Webbased application.
