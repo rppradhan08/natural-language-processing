@@ -21,7 +21,7 @@ Below mentioned are the list of packages and their purpose:
 Install following python packages to setup the environment.
 
 ```bash
-    pip install streamlit==1.0.0 langchain openai wikipedia chromadb tiktoken
+pip install streamlit==1.0.0 langchain openai wikipedia chromadb tiktoken
 ```
 
 ## Running the tests
@@ -31,6 +31,7 @@ Execute below command to test this application on localhost environment.
 ```bash
 streamlit run app.py
 ```
+<img width="698" alt="image" src="https://github.com/rppradhan08/natural-language-processing/assets/62500188/76b5f884-d982-44fd-820a-4c43d5fe8c9a">
 
 ## Built With
 
