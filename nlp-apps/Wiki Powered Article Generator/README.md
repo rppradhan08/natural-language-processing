@@ -15,6 +15,7 @@ Below mentioned are the list of packages and their purpose:
 3. `OpenAI` - SDK to interact with OPENAI based models
 4. `ChromaDB` - Vector storage to maintain Knowledgebase
 5. `TikToken` - Tokenizer for OpenAI based LLMs
+6. `WikipediaAPI` - SDK to interact with Wikipedia
 
 ### Installing
 
