@@ -11,7 +11,7 @@ These instructions will get you a copy of the project up and running on your loc
 Below mentioned are the list of packages and their purpose:
 
 1. `Streamlit` - Used to build the Web-based Application
-2. `Langchain` - USed to build the LLM-based backend workflow
+2. `Langchain` - Used to build the LLM-based backend workflow
 3. `OpenAI` - SDK to interact with OPENAI based models
 
 ### Installing
@@ -19,7 +19,7 @@ Below mentioned are the list of packages and their purpose:
 Install following python packages to setup the environment.
 
 ```bash
-    pip install streamlit==1.0.0 langchain openai
+pip install streamlit==1.0.0 langchain openai
 ```
 
 ## Running the tests
